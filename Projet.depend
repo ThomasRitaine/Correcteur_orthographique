@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576967786 source:c:\users\thomas\dropbox\utt\ue\nf05\projet\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576967786 source:c:\users\thomas\dropbox\utt\ue\nf05\projet\projet_ritaine_nf05\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
